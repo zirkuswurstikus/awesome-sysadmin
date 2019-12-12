@@ -631,6 +631,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [GitBucket](https://github.com/takezoe/gitbucket) Clone of GitHub written in Scala; single jar install.
 * [GitLab](https://www.gitlab.com/) - Clone of GitHub written in Ruby.
 * [Gogs](http://gogs.io/) - Self-hosted Git service written in Go.
+* [Gitea](https://gitea.io/) - Clone of Gogs; a self-hosted Github clone
 * [OpenProject](https://www.openproject.org) - Project collaboration with open source.
 * [Phabricator](http://phabricator.org/) Written in PHP.
 * [Redmine](http://www.redmine.org/) - Written in ruby on rails.
